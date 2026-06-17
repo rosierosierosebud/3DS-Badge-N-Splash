@@ -1,5 +1,5 @@
 # 3DS-Badge-N-Splash
-A Splash Screen and Badge converter/creator for 3DS, instructions included. 
+A Splash Screen and Badge converter/creator for 3DS, instructions included. Runs as a .exe on Windows.
 # What's included?
 Image to .bin converter (BGR format, and rotates it 90 degrees for the 3ds's screens) for the splash screens, instructions, link to an info.SMDH creator (I did not create one, that was outside my capabilities. The one linked in the program is https://www.marcrobledo.com/smdh-creator/, so tysm to Marc Robledo for creating this thing) also for splash screens, and a quick image splitter for badges (basically, you import an image, ideally divisible by 64, and it splits it into 64x64 segments and exports it to a folder for you). Also, it may not be obvious that the images have been converted in the program, but if you check the files, you'll find them!
 # Where can I find exported files?
